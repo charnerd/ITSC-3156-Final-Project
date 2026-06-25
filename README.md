@@ -3,3 +3,6 @@
 This project uses data analysis and preprocessing on the dataset to standardize features and omit unnecessary data. This helps to put a better focus on the certain features of the dataset that can support the problem statement. To predict the outcome of a movie's success by using certain factors such as budget, revenue, and popularity. The prediction of this success is that I will see a high variability in the spread considering the sample set is over 1,000,000 entries. The success class of low, medium, and high is better to understand through the visualizations considering the factors of finances and popularity is what production companies will have to decide on for making sequels and remakes.
 
 **Original** Kaggle Dataset - https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies
+
+The pdf file is a report that I wrote on the creative process I went through to build this ML agent.
+The .ipynb file can be accessed on Jupyter Notebook to fully test all results not mentioned in the report.
